@@ -1,0 +1,19 @@
+# Virtual Environment
+rag_env/
+
+# API Keys
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Database
+database/
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
